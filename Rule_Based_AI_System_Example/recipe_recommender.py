@@ -7,7 +7,7 @@ recipes = {
     "Vegetable Stir-Fry": ["broccoli", "carrots", "soy sauce", "garlic", "ginger"],
     "Caprese Salad": ["tomatoes", "mozzarella", "basil", "olive oil", "balsamic vinegar"],
     "Banana Smoothie": ["banana", "milk", "yogurt", "honey", "ice"],
-    "Beef Burrito": ["tortilla", "ground beef", "cheese", "lettuce", "tomato"],
+    "Beef Burrito": ["tortillas", "ground beef", "cheese", "lettuce", "tomato"],
     "Turkey Sandwich": ["bread", "turkey", "cheese", "lettuce", "tomato"],
     "Chicken Pot Pie": ["pie crust", "chicken", "cream of mushroom soup", "carrots", "green beans"],
     "Ramen": ["noodles", "broth", "vegetables", "hard boiled egg", "soy sauce"],
@@ -19,8 +19,9 @@ recipes = {
     "Chicken Salad": ['chicken', 'mayonaise', 'onion', 'celery', 'mustard'],
     "Tomato Basil Soup" : ['tomatoes', 'basil', 'vegetable stock', 'cream'],
     "Broccoli Cheddar Soup": ['broccoli', 'cheddar cheese', 'cream', 'vegetable broth'],
-    "Enchiladas": ['tortilla', 'chicken', 'enchilada sauce', 'cheese'],
-    "Cheesecake": ['graham crackers', 'sugar', 'eggs', 'butter', 'cream cheese', 'cream']
+    "Enchiladas": ['tortillas', 'chicken', 'enchilada sauce', 'cheese'],
+    "Cheesecake": ['graham crackers', 'sugar', 'eggs', 'butter', 'cream cheese', 'cream'],
+    "Sushi": ['seaweed', 'fish', 'rice', 'wasabi']
 }
 
 # Function to recommend recipes
